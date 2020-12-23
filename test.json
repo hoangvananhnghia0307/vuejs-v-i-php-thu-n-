@@ -1,4 +1,4 @@
-[{
+{
   code: "ZW",
   name: "Zimbabwe",
   created_at: "2015-04-24T01:46:50.459583",
@@ -348,4 +348,4 @@
   updated_at: "2015-04-24T01:46:50.342501",
   uri: "http://api.lobbyfacts.eu/api/1/country/196",
   id: 196
-}]
+}
